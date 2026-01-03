@@ -27,47 +27,49 @@
 
 
 ## **1.《Java代码审计手册精华版》**
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/03.png)
 
 这是**一本有难度的书**，特别献给那些有安全梦想的人！如果你费了九牛二虎之力还是没看懂，不是你不够优秀。相反，是它不适合你。
 
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/101.PNG)
+
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/102.png)
 
 - **图书地址：** [Java代码审计手册精华版](https://q0vz8dcmr5i.feishu.cn/wiki/CIq5wGcXjicYjakZh40c6MHfndc)
 
-
-- **开源协议：**
-
-本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等）。开源协议地址：https://commonsclause.com
+- **开源协议：** 本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等）。开源协议地址：https://commonsclause.com
 
 
 ## **2.《网络安全求职宝典》**
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/02.png)
 
 本书主要面向**网络安全新人**，提供**面试准备到Offer入职、背调等关键事项**的说明和建议，是一份难得的经验总结。
 
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/103.png)
+
 **图书地址：** [00 网络安全求职宝典（2024开源版）](https://q0vz8dcmr5i.feishu.cn/wiki/ALFlw0pb3i36uhkjiFUcDzdwnVf)
 
-**开源协议：**
-
-本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等），开源协议地址：https://commonsclause.com
+**开源协议：** 本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等），开源协议地址：https://commonsclause.com
 
 
 ## **3.《BurpSuite实战指南》**
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/01.png)
 
 本书适合网络安全初级入门者，被业界称为“**最全面详实的BurpSuite实战教程**”，感谢各位10年来的关注，在这里一并致谢！
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/104.png)
 
 **图书地址：** https://www.gitbook.com/book/t0data/burpsuite/details
 
-**共享阅读：**
+**共享阅读：** [BurpSuite+实战指南.pdf](https://ai.feishu.cn/wiki/DRBEwwAFNiPme6k8vDvcfJSfnIf#share-LsaAduNcSo6aknxJh63cOnNXnre)
 
-[BurpSuite+实战指南.pdf](https://ai.feishu.cn/wiki/DRBEwwAFNiPme6k8vDvcfJSfnIf#share-LsaAduNcSo6aknxJh63cOnNXnre)
-
-**开源协议：**
-
-本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等），开源协议地址：https://commonsclause.com
+**开源协议：** 本图书遵循“Commons Clause” License Condition v1.0协议，未经作者同意，严禁用于商业化（培训教材、收费服务、二次销售等），开源协议地址：https://commonsclause.com
 
 
 ## **🚩 读者交流 🚩** 
 
 在知识星球上，名称已经改为：**AI 安全圈**
+
+![](https://github.com/t0data/openSecurityBooks/blob/main/images/105.jpg)
 
 知识星球是收费的，没必要的读者就别加了。星球日常只做两件事：
 
